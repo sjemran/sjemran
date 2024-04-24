@@ -1,16 +1,13 @@
-### Hi there 👋
+# Quarto Template for the Tutorial
 
-<!--
-**sjemran/sjemran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains the template for the website tutorial at <https://www.marvinschmitt.com/blog/website-tutorial-quarto/>.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="img/website_template_screenshot_1.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="img/website_template_screenshot_2.png" width="45%">
+<br/><br/>
+  <img src="img/website_template_screenshot_3.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="img/website_template_screenshot_4.png" width="45%">
+</p>
